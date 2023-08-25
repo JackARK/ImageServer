@@ -6,11 +6,11 @@
 
 很多博客网站和个人博主都在烦的一件事——博客里的背景、壁纸API要么收费，要么请求响应缓慢，主题不适配返回的数据格式。身为博主同样受困于此，于是一拍大腿：自己搭建一个不就得了！
 
-后来这个项目就诞生了。项目在Github和Gitee上开源，请能人志士鼎力相助！
+后来这个雏形就诞生了。项目在Github和Gitee上开源，请能人志士鼎力相助！
 
-**项目地址：**[Jack.H/ImageServer: 图床雏形，能够提供一个随机壁纸的接口和上传图片的接口(Github)](https://github.com/JackARK/ImageServer)
+**Github：**[Jack.H/ImageServer: 图床雏形，能够提供一个随机壁纸的接口和上传图片的接口](https://github.com/JackARK/ImageServer)
 
-
+**Gitee**：[杰出咸鱼/ImageServer: 图床雏形，能够提供一个随机壁纸的接口和上传图片的接口](https://gitee.com/jackhartwell/ImageServer.git)
 
 但是快开学了，时间或许就不那么充沛，这个项目现在就只有一个雏形。已经实现了基本功能：
 
