@@ -168,4 +168,35 @@ for files in file_names:
     print(file_path+response.text)
     time.sleep(1) # 防止服务器带宽不够引起上传失败，减缓上传速度
 ```
+## 私有部署
+
+### Docker部署
+
+看到没，项目里有个DockerFile文件，拉好文件后执行
+
+```bash
+docker build -t imageserver .
+```
+
+构建好镜像之后运行一个容器：
+
+```bash
+docker run -p 4399:4399 imageserver -d
+```
+
+运行开始之后想要查看日志：
+
+```bash
+docker ps
+docker logs -f <容器id>
+```
+
+### 裸机运行
+
+进入项目文件夹下
+
+```bash
+node server.js
+```
+
 
