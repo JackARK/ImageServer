@@ -52,7 +52,7 @@ GET https://img.saltfish.club/random/phone
 
 **返回示例**
 
-<img src="https://img.saltfish.club/random/phone" style="zoom:25%;"  >
+<img src="https://img.saltfish.club/random/phone" style="zoom:10%;"  >
 
 
 
